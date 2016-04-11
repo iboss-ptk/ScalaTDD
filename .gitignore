@@ -1,0 +1,6 @@
+# intelliJ stuffs
+.idea/
+
+# target
+target/
+project/target/
